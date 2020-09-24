@@ -6,3 +6,4 @@ while bike > 1000:
   bike = bike - tenpercent
 else:
     print("Value below 1000")
+    
